@@ -1,0 +1,5 @@
+public enum especialidadMedica {
+
+    CARDIOLOGIA, DERMATOLOGIA, PEDIATRIA, RADIOLOGIA, NEUROLOGIA
+
+}
